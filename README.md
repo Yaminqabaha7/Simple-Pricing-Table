@@ -44,7 +44,7 @@ A visually appealing and responsive pricing display for various iPhone models us
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/iphone-pricing-table.git
+url--(https://yaminqabaha7.github.io/Simple-Pricing-Table/)
    ```
 
 2. Open the main file:
